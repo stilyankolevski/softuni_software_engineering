@@ -2,10 +2,6 @@
 
 ---
 
-<p align="center"> ![SoftUniLogo](/Users/stilyan/Desktop/softuni-logo.png "SoftUni Logo")
-
-</p>
-
 ## Certifications
 
 <table>
