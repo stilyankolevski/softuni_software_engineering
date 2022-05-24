@@ -1,7 +1,9 @@
 # <p align="center"> My SoftUni Courses and Achievements <p>
 
 ---
-![softuni-logo](https://user-images.githubusercontent.com/106108212/170100664-ff4ec627-14b2-4791-9365-42bf3fac61d8.png)
+<p align="center">
+   ![softuni-logo](https://user-images.githubusercontent.com/106108212/170100664-ff4ec627-14b2-4791-9365-42bf3fac61d8.png)
+</p>
   
 ## Certifications
 
