@@ -1,4 +1,4 @@
-# My SoftUni Python Journey
+# <p align="center"> My SoftUni Courses and Achievements
 
 ---
 
