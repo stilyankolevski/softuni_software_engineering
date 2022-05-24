@@ -1,10 +1,12 @@
 # <p align="center"> My SoftUni Courses and Achievements <p>
 
 ---
-<p align="center">
-   ![softuni-logo](https://user-images.githubusercontent.com/106108212/170100664-ff4ec627-14b2-4791-9365-42bf3fac61d8.png)
-</p>
-  
+<div class="parent">
+ <div id="heading">
+        <img src="![softuni-logo](https://user-images.githubusercontent.com/106108212/170101215-d09b01d6-6ec7-42b8-a035-cf011be1bb7f.png)" alt="speakom"   />
+ </div>
+</div>
+   
 ## Certifications
 
 <table>
