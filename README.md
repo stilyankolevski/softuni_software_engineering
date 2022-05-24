@@ -2,9 +2,8 @@
 
 ---
 
-![softunilogo](https://user-images.githubusercontent.com/106108212/170093149-015efb80-3745-493f-b6ef-edc27e381d28.png)
+<p align="center"> ![softuni-logo](https://user-images.githubusercontent.com/106108212/170093367-f7fbf61a-25ec-450c-ab6c-9e0a91bb8e01.png)
 
-  
 ## Certifications
 
 <table>
