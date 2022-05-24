@@ -2,7 +2,8 @@
 
 ---
 
-![alt text]([http://url/to/img.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FYordanDobrev97%2FSoftUni&psig=AOvVaw3iMLDaQIHUU2Q4lnHRKTDF&ust=1653498438427000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIijie_P-PcCFQAAAAAdAAAAABAD))
+![softunilogo](https://user-images.githubusercontent.com/106108212/170093149-015efb80-3745-493f-b6ef-edc27e381d28.png)
+
   
 ## Certifications
 
