@@ -2,8 +2,7 @@
 
 ---
 
-<p align="center">
-  <img width="460" height="300" src="![softuni-logo](https://user-images.githubusercontent.com/106108212/170094404-98b9967d-32f0-46bd-9754-5f42872ca3c7.png)">
+<p align="center"> ![SoftUniLogo](/Users/stilyan/Desktop/softuni-logo.png "SoftUni Logo")
 
 </p>
 
